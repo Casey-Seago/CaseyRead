@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @cattleandcoffee
-- 👀 I’m interested in:
-      - introducing data analysis to improve livestock production
-      - analyzing biological datasets
+- 👀 I’m interested in: introducing data analysis to improve livestock production and analyzing biological datasets
 - 🌱 I’m currently learning R, Python, and SQL
