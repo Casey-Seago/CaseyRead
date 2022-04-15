@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CaseyRead
 - 🐛 I am: a PhD candidate in Animal Sciences who began learning to code in fall 2019
-- 👀 I’m interested in: introducing data analysis to improve livestock production as well as using it to analyze biological datasets
-- 🌱 I’m currently learning R, Python, and SQL
+- 👀 I am familiar with R and SQL
+- 🌱 I’m currently learning HTML, CSS, and JavaScript
