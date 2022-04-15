@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @CaseyRead
-- 🐛 I am: a PhD candidate in Animal Sciences who began learning to code in fall 2019
-- 👀 I am familiar with R and SQL
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 🐛 I am familiar with R and SQL
+- 🌱 I am currently learning HTML, CSS, and JavaScript
