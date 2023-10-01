@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @CaseyRead
+- 👋 Hi, I’m @CaseySeago
 - 🐛 I am familiar with R, SQL, and python
 - 🌱 I am currently learning HTML, CSS, and JavaScript
